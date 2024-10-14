@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background: rgb(88, 3, 14);
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 92px;
+    color: rgb(248, 6, 54);
+    text-align: center;
+}
+
+section {
+    background: rgb(88, 3, 14);
+}
